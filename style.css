@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+/* 
+    Ejercicio 1
+*/
+#ejercicio1 div {
+    width: 200px;
+    height: 100px;
+}
+
+
+/* 
+    Ejercicio 2
+*/
+#ejercicio2 p {
+    margin: 20px
+}
+
+
+/* 
+    Ejercicio 3
+*/
+#ejercicio3 h1 {
+    padding: 10px;
+}
+
+
+/* 
+    Ejercicio 4
+*/
+#ejercicio4 a {
+    border: 2px solid red
+}
+
+
+/* 
+    Ejercicio 5
+*/
+#ejercicio5 button {
+    width: 150px;
+    margin-right: 10px;
+}
+
+
+/* 
+    Ejercicio 6
+*/
+#ejercicio6 div {
+    border-width: 3px;
+}
+
+
+/* 
+    Ejercicio 7
+*/
+#ejercicio7 li {
+    padding: 15px;
+}
+
+
+/* 
+    Ejercicio 8
+*/
+#ejercicio8 p {
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+
+/* 
+    Ejercicio 9
+*/
+#ejercicio9 div {
+    padding: 20px 5px 10px;
+}
+
+
+/* 
+    Ejercicio 10
+*/
+#ejercicio10 div {
+    width: 300px;
+    height: 200px;
+    margin: 25px;
+    /* Le doy color para que se vea */
+    background-color: pink;
+}
+
+
+/* 
+    Ejercicio 11
+*/
+#ejercicio11 div {
+    width: 250px;
+    height: 150px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+
+/* 
+    Ejercicio 12
+*/
+#ejercicio12 li {
+    margin-right: 15px;
+    padding: 10px;
+}
+
+
+/* 
+    Ejercicio 13
+*/
+#ejercicio13 p {
+    max-width: 400px;
+    margin: 0;
+}
+
+
+/* 
+    Ejercicio 14
+*/
+#ejercicio14 img {
+    border: 2px solid green
+}
+
+
+/* 
+    Ejercicio 15
+*/
+#ejercicio15 button {
+    width: 120px;
+    margin-top: 10px;
+    padding: 5px;
+}
+
+
+
